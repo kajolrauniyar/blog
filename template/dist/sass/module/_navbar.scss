@@ -1,0 +1,39 @@
+.nav-wrapper{
+	padding-left:40px;
+	background-color: #22AAC8;
+}
+.navbar-collapse{
+	.nav-item{
+		.nav-link{
+		color:white;	
+		}
+	
+}
+}
+
+.subnav-wrapper{
+	background-color: #176097e6;
+	color:white;
+}
+
+ @media screen and (min-width: 900px) {
+
+.navbar .dropdown {position:static;}
+
+  
+  /* shows the dropdown menu on hover */
+.navbar .dropdown:hover .mega-menu, .navbar .dropdown .mega-menu:hover {
+
+  visibility: visible;
+  opacity: 1;
+
+}
+  
+
+
+}
+
+
+ 
+
+

@@ -1,0 +1,43 @@
+//navbar start
+
+//parallax start
+.parallax{  
+  height: 640px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+//parallax-title start
+
+.title  {
+ 
+ position: absolute;
+  bottom: 120px;
+  left: 20px;
+  color:white;
+}
+.parallax{
+  position:relative;
+}
+
+//parallax-title end
+//parallax-button start
+.button  {
+ 
+ position: absolute;
+  bottom: 80px;
+  left: 20px;
+  background-color:#18b03b;
+  color:white;
+}
+.parallax{
+  position:relative;
+}
+//parallax-button end
+//parallax end
+//package button start
+.center-block {
+  float:none;
+}
+//package button end
